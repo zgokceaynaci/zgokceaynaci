@@ -1,6 +1,22 @@
-## 👋 Hi, I’m Gökçe  
+<h1 align="center">
+  Hi 👋, I’m Gökçe
+</h1>
 
-**Backend × DevOps • Curious Builder • Lifelong Learner**
+<h3 align="center">
+Backend × DevOps • Curious Builder • Lifelong Learner
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?
+  font=Fira+Code&
+  pause=1000&
+  center=true&
+  vCenter=true&
+  width=500&
+  lines=Backend+Developer;DevOps+Enthusiast;Building+Reliable+Systems;Learning+Cloud+Step+by+Step" />
+</p>
+
+---
 
 A **Computer Engineering graduate** who’s curious, open-minded, and passionate about building reliable systems — from backend logic to DevOps practices.
 
